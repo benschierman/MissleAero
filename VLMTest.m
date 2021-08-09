@@ -9,8 +9,8 @@ close all; clear;
 % elseif n==0;
 %     print('Please enter a value greater than 0. \n')
 %     n=input('How many panels would you like to calculate? \n')
-% end
-% 
+% end 
+% and now i do an edit
 % ar = input('What is your aspect ratio? \n');
 % if isempty(ar);
 %     ar=3.55;
